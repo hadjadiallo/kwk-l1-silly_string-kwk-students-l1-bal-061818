@@ -19,7 +19,7 @@ lowercased_phrase = phrase.downcase
 
 puts lowercased_phrase
 
-# Challenge 4: Count how many letters are in that big_word
+.downcase # Challenge 4: Count how many letters are in that big_word
 
 big_word = "supercalifragilisticexpialidocious"
 
